@@ -1,0 +1,3 @@
+[submodule "External/subhook"]
+	path = External/subhook
+	url = https://github.com/Zeex/subhook.git
